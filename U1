@@ -8,3 +8,4 @@ They use it to continuously monitor the code in real-time and integrate changes 
 Jenkins as it turns out, is a great fit for building a CI/CD pipeline because of its plugin-capabilities, and simple-to-use nature.
 
 check dk
+initialize the git hub
